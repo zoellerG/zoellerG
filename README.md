@@ -15,9 +15,7 @@
 
 - 💬 Ask me about anything related to **Networks, Windows, Firewalls**
 
-- 📧 Check out my Current Certifications!
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="917fb0ae-ffda-4ac0-b229-90e279c4b1d6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- 📧 Check out my Current Certifications! at LinkedIN
 
 - 📫 How to reach me **georg.zoeller@zoeller-it-networks.de**
 
