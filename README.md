@@ -17,7 +17,7 @@
 
 - 📧 Check out my Current Certifications! at LinkedIN
 
-- 📫 How to reach me **georg.zoeller@zoeller-it-networks.de**
+- 📫 How to reach me **georg.zoeller@georgs-technik.de**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/georg-zöller-916272275/](https://www.linkedin.com/in/georg-zöller-916272275/)
 
